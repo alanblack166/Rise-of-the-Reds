@@ -10,5 +10,5 @@ DependenceName: ''
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: rotr
 S3FolderName: rotr-individual-files
-S3HostPublicKey: LOWKTIWYOB5FFH966SOA
-S3HostSecretKey: gM8YhkltVL9wfc6lF5VUJXeiDJSqupunFN0rSAr+
+S3HostPublicKey: ''
+S3HostSecretKey: ''
